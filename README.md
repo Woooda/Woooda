@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Woooda
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Wamandi
+- 💞️ I’m looking to collaborate on Elytrya__
 - 📫 How to reach me @kuertov_avito and dc @Hexo_x_Hunter
 
 <!---
