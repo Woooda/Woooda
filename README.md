@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @Woooda
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Elytrya__
-- 📫 How to reach me @kuertov_avito and dc @Hexo_x_Hunter
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wooda&size_weight=0.5&count_weight=0.5)
+[![](https://raw.githubusercontent.com/Wooda/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/Wooda/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Wooda/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/Wooda/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Wooda/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/Wooda/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Wooda/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/Wooda/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Wooda/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/Wooda/github-profile-summary-cards)
 
-
-<!---
-Woooda/Woooda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
