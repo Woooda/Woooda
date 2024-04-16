@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Elytrya__
 - 📫 How to reach me @kuertov_avito and dc @Hexo_x_Hunter
 
-[![Wooda's GitHub stats](https://github-readme-stats.vercel.app/api?username=woooda)](https://github.com/anuraghazra/github-readme-stats)
+![Wooda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooda&show_icons=true)
 
 
 <!---
