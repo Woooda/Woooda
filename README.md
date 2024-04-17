@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML , PYTHON**
+- 💬 Ask me about **Html , Python**
 
 - 📫 How to reach me **geog4997@gmail.com**
 
